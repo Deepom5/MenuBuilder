@@ -1,56 +1,74 @@
-# Welcome to your Expo app 👋
+# 🍽️ MenuBuilder
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+An **offline-first restaurant menu builder** built with **Expo**, **React Native**, and **SQLite**.
 
-## Get started
+Create beautiful restaurant menus, manage food items, preview customer menus, and export everything locally—without requiring an internet connection.
 
-1. Install dependencies
+<p align="center">
+ <img width="1536" height="1024" alt="ChatGPT Image Jul 9, 2026, 03_54_51 PM" src="https://github.com/user-attachments/assets/0dc79429-2c75-4ecd-b594-ee3992d0a94a" />
+</p>
 
-   ```bash
-   npm install
-   ```
+## ✨ Features
 
-2. Start the app
+- 📱 Built with Expo & React Native
+- 💾 Offline-first using SQLite
+- 🎨 Multiple professional menu templates
+- 🍽️ Restaurant setup & customization
+- 📂 Categories & menu item management
+- 🥗 Veg / Non-Veg / Vegan support
+- 📷 Image picker for food items
+- 👀 Live customer menu preview
+- 📄 Export as PDF
+- 📦 Import / Export JSON
+- 📲 QR Code sharing
+- ⚡ Fast local performance
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🛠 Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- Expo
+- React Native
+- TypeScript
+- SQLite
+- Expo Router
+- Expo Print
+- Expo Sharing
+- Expo Image Picker
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
-
-When you're ready, run:
+## 🚀 Getting Started
 
 ```bash
-npm run reset-project
+git clone https://github.com/yourusername/MenuBuilder.git
+
+cd MenuBuilder
+
+npm install
+
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-### Other setup steps
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+## 💡 Highlights
 
-## Learn more
+- Offline-first architecture
+- SQLite local database
+- No authentication
+- No backend
+- Privacy-focused
+- Modern UI/UX
+- PDF & QR Code export
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 👨‍💻 Author
 
-## Join the community
+**Deepom Chowdhury**
 
-Join our community of developers creating universal apps.
+Senior React Native Developer
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+⭐ If you like this project, consider giving it a star!
